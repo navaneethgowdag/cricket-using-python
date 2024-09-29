@@ -1,1 +1,1 @@
-Simple Cricket code Created using Python
+Cricket Score Simulation Program
