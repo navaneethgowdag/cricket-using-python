@@ -1,4 +1,2 @@
 Cricket Score Simulation Program
-hello im here
-hello
-you are python
+this program is written using python.
